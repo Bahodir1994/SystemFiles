@@ -7,7 +7,5 @@ public class MathPractice {
 
         System.out.println("Name: "+ name + " " + "className" + className);
         System.out.println("Name: "+ name + "my age: " + "myPosition: " + position);
-
-
     }
 }
