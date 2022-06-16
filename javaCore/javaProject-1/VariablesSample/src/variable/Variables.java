@@ -19,6 +19,5 @@ public class Variables {
         String aa = tellMe + name;
         double d = sum + size;
         System.out.println(d);
-
     }
 }
