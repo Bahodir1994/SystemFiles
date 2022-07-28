@@ -1,13 +1,16 @@
 package uz.custom.oops;
 
+import uz.custom.oops.homeWork.BeelineMenu;
+
 public class Main {
-    public static void main(String[] args) {
-
-        Dog jivoy = new Dog();
-
-        int ageAny = 6;
-
-        jivoy.tellMeYourAgeAfterTenYears(ageAny);
-        System.out.println("Hello world!");
+    private final BeelineMenu beelineMenu;
+    public Main(BeelineMenu beelineMenu) {
+        this.beelineMenu = beelineMenu;
     }
+
+      public static void main(String[] args) {
+
+    }
+
+    beelineMenu.
 }
